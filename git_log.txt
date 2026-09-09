@@ -1,0 +1,39 @@
+commit 45c186091e3de20474352e79b5cf5d83120b59af
+Merge: 724d41d 2d2db2d
+Author: tiffanyphan67 <tphan77@calstatela.edu>
+Date:   Wed Sep 9 15:54:02 2026 -0700
+
+    Resolved merge conflict
+
+commit 2d2db2df13c9c07f251d934a9a08cf0a804d1677
+Author: tiffanyphan67 <tphan77@calstatela.edu>
+Date:   Wed Sep 9 15:52:34 2026 -0700
+
+    Added fav game
+
+commit 724d41d6441c0a715e03ea2b0cd234781b0989d2
+Author: tiffanyphan67 <tphan77@calstatela.edu>
+Date:   Wed Sep 9 15:51:29 2026 -0700
+
+    Added fav food
+
+commit c85bbb8d1cea0f90fda6f0bd101f8706f4954167
+Merge: 1d2bfc0 cf4ce89
+Author: Tiffany P <tphan77@calstatela.edu>
+Date:   Wed Sep 9 15:45:09 2026 -0700
+
+    Merge pull request #1 from tiffanyphan67/info-fill
+    
+    Filled in blank spaces
+
+commit cf4ce8975246cabebdad1e149176db975189ac64
+Author: tiffanyphan67 <tphan77@calstatela.edu>
+Date:   Wed Sep 9 15:38:33 2026 -0700
+
+    Filled in blank spaces
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
